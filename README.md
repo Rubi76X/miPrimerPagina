@@ -1,5 +1,5 @@
 # Práctica HTML5 y CSS3: Mi primera página web
-### Curso Front End - Alura latam
+### Curso alura latam - One Next Education
 
 ## En esta práctica trabajé los aspectos básicos de HTML y aprendí la estructura básica de un archivo HTML, así como:
 
